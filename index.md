@@ -1,9 +1,6 @@
 # Overview
 This repository outlines an inventory of all of the Department of General Services core divisions, systems, and reports.
 
-
-# Inventories
-
 ## Divisions
 - Facilities Maintenance
 - Fleet Management
@@ -55,8 +52,6 @@ This repository outlines an inventory of all of the Department of General Servic
 - KPI 1
 - KPI 2
 - KPI 3
-
-# Tags
 
 ## Business Processes
 - HR

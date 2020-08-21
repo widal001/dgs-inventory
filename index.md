@@ -2,7 +2,7 @@
 This repository outlines an inventory of all of the Department of General Services core divisions, systems, and reports.
 
 ## Divisions
-- Facilities Maintenance
+- [Facilities Maintenance](/divisions/facilities-maintenance.md)
 - Fleet Management
 - Historic Properties
 - Major Capital Projects
@@ -17,7 +17,7 @@ This repository outlines an inventory of all of the Department of General Servic
 ## Systems
 
 ### High Priority Systems
-- Archibus
+- [Archibus](/systems/archibus.md)
 - EJ Ward
 - Faster
 - WorkDay

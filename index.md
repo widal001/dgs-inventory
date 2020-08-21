@@ -44,12 +44,12 @@ This repository outlines an inventory of all of the Department of General Servic
 - Microsoft Office Suite
 
 ## Reports
-- Report 1
+- [Report 1](/reports/template.md)
 - Report 2
 - Report 3
 
 ## KPIs
-- KPI 1
+- [KPI 1](/kpis/template.md)
 - KPI 2
 - KPI 3
 

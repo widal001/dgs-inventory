@@ -1,7 +1,9 @@
-# {System Name} Overview
+# {System Name} 
 
-## Description
-<Description of system>
+## Overview
+
+### Description
+{Description of system}
 
 ### Divisions using system
 
@@ -11,32 +13,28 @@
 * Admin (HR)
 * Admin (Fiscal)
 * Admin (BPIO)
-* MOIT
+* MOIT 
 
---- 
+## Business Details
 
-# Business Details
-
-## KPIs
+### KPIs
 
 - {KPI 1 from list of KPIs}
 - {KPI 2}
 
-## Relevant Business Processes
+### Relevant Business Processes
 
 - {Business Process 1 from list of processes>
 - {Business Process 2}
 
-## Subject Matter Experts
+### Subject Matter Experts
 
 - {Expert 1}
 - {Expert 2}
 
---- 
+## Administration
 
-# Administration
-
-## Access
+### Access
 
 - **System Admin:** <Name of Admin>
 - **Level of Access for BPIO:** {choose an option below}
@@ -46,22 +44,20 @@
     - Full CRUD access
     - Admin access
 
-## Documentation
+### Documentation
 
 - **User Guide:** {link to user guide}
 - **ERD:** {link to ERD}
 - **Data Dictionary:** {Link to data dictionary}
 
-## Relevant Reports
+### Relevant Reports
 
 - {Report 1 from list of reports}
 - {Report 2}
 
----
+## Budgetary Details
 
-# Budgetary Details
-
-## Contract
+### Contract
 
 - **License Type:** <Choose an option below>
     - Free subscription
@@ -71,7 +67,7 @@
     - Custom Built Software
 - **Renewal Date (if applicable):**
 
-## Cost
+### Cost
 
 - **Total Subscription Cost:** {Annual Cost}
 - **Cost Per License:** {Annual Cost}

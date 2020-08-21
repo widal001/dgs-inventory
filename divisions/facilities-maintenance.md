@@ -1,4 +1,4 @@
-# {Facilities Maintenance}
+# Facilities Maintenance
 
 ### Description
 This service is responsible for providing maintenance and repair to over 500 municipal buildings. The 82 core buildings, owned by the Mayor and City Council, comprise over 4.7 million square feet of work space. The tenant agencies include most departments of City government. General Services maintains 45 buildings through an Internal Service Fund (ISF), including the recently added Historic Properties. Agencies occupying buildings supported by the ISF are charged rent on a per square foot basis. The remaining 22 buildings, including currently surplus schools, are funded directly through the General Fund. General Services is actively engaged with partners to identify opportunities for alternative uses for the surplus schools.

@@ -3,15 +3,15 @@ Template inventory for DGS Systems and Reports
 
 ## Divisions
 - [Facilities Maintenance](/divisions/facilities-maintenance.md)
-- Fleet Management
-- Historic Properties
-- Major Capital Projects
-- Energy
-- Admin (HR)
-- Admin (Fiscal)
-- Admin (BPIO)
-- Admin (Communications)
-- Admin (OCM)
+- [Fleet Management](/divisions/fleet-management.md)
+- [Historic Properties](/divisions/historic-properties.md)
+- [Major Capital Projects](/divisions/major-capital-projects.md)
+- [Energy](/divisions/energy.md)
+- [Admin (HR)](/divisions/admin-hr.md)
+- [Admin (Fiscal)](/divisions/admin-fiscal.md)
+- [Admin (BPIO)](/divisions/admin-bpio.md)
+- [Admin (Communications)](/divisions/admin-communications.md)
+- [Admin (OCM)](/divisions/admin-ocm.md)
 - ISMT (BCIT)
 
 ## Systems

@@ -18,17 +18,17 @@ Template inventory for DGS Systems and Reports
 
 ### High Priority Systems
 - [Archibus](/systems/archibus.md)
-- EJ Ward
-- Faster
-- WorkDay
-- Integrify
-- Primavera Unifier
-- VFA
-- OnBase
+- [EJ Ward](/systems/ej-ward.md)
+- [Faster](/systems/faster.md)
+- [WorkDay](/systems/workday.md)
+- [Integrify](/systems/integrify.md)
+- [Primavera Unifier](/systems/primavera-unifier.md)
+- [VFA](/systems/vfa.md)
+- [OnBase](/systems/onbase.md)
 
 ### Medium Priority Systems
-- Etime
-- Real Property Database
+- [Etime](/systems/etime.md)
+- [Real Property Database](/systems/real-property-database.md)
 - Core Integrator
 - Office Timesheets
 - Neogov

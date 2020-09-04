@@ -3,9 +3,10 @@
 ## Overview
 
 ### Description
-A database management system that helps the DGS Fiscal, IT and Facilities Maintenance divisions track building needs and repairs to provide a safe, clean and comfortable working environment for city agencies while holding employees responsible for their roles. 
+An internally hosted system managed by ISMT that both the Facilities Maintenance Division and Division of Major Capital Projects and Energy use for a variety of space-related functions, including corrective maintenance, preventive maintenance, and tracking energy consumption.
 
-Archibus also uses automation to minimize maintenance costs and optimize its portfolio. Additionally, this software uses data visualization, metrics and alerts to give a tangible representation of costs, activities and occupancy needs of the organization, so that stakeholders are kept well-informed.
+### Subject Matter Expert
+James Trimarco
 
 ### Divisions using system
 

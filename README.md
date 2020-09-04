@@ -19,9 +19,9 @@ Template inventory for DGS Systems and Reports
 ### High Priority Systems
 - **[Archibus](/systems/archibus.md):** An internally hosted system managed by ISMT that both the Facilities Maintenance Division and Division of Major Capital Projects and Energy use for a variety of space-related functions, including corrective maintenance, preventive maintenance, and tracking energy consumption.
 
-- **[EJ Ward](/systems/ej-ward.md):** An automated fuel management solutions used by the Fleet Management division to make the fuel-dispensing  and other fleet-related activities more accurate and efficient.
+- **[EJ Ward](/systems/ej-ward.md):** A cloud-based system that the Fleet Management Division uses to automate fuel distribution,  manage tank inventory levels and allow real-time management of inventory and analytics.
 
-- **[Faster](/systems/faster.md):** A cloud-based system that the Fleet Management Division uses to manage preventive and corrective maintenance on divsion assets, which provides fleet analytics, parts and inventory processing, maintenance and labor, and accounting and billing management.
+- **[Faster](/systems/faster.md):** A cloud-based system that the Fleet Management Division uses to manage preventive and corrective maintenance on division assets, which provides fleet analytics, parts and inventory processing, maintenance and labor, and accounting and billing management based on real-time transactional data.
 
 - **[WorkDay](/systems/workday.md):** A cloud-based financial management and human capital management software that will replace many of the systems currently used by the HR and Fiscal offices of the Administrative Division.
 

@@ -9,8 +9,6 @@ Linnette Svododa
 ### Divisions using system
 * Fleet Management
 
---- 
-
 ## Business Details
 
 ### Relevant KPIs

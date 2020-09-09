@@ -34,7 +34,7 @@ Jason Jozwiak
 - **ERD:** <link to ERD>
 - **Data Dictionary:** <Link to data dictionary>
 
-## Common Reports
+### Common Reports
 - <Report 1>
 - <Report 2>
 

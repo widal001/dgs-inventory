@@ -40,11 +40,11 @@ Template inventory for DGS Systems and Reports
 ### Medium Priority Systems
 - [Etime](/systems/etime.md)
 - [Real Property Database](/systems/real-property-database.md)
-- Core Integrator
-- Office Timesheets
-- Neogov
-- GitHub
-- Data.World
+- [Core Integrator](/systems/core-integrator.md)
+- [Office Timesheets](/systems/office-timesheets.md)
+- [Neogov](/systems/neogov.md)
+- [GitHub](/systems/github.md)
+- [Data.World](/systems/data-world.md)
 - Microsoft BI
 - CM 14
 - Expenditure Authorization Request

@@ -37,6 +37,8 @@ Template inventory for DGS Systems and Reports
 
 - **[OnBase](/systems/onbase.md):**
 
+- **SSRS Report Builder** A standard report builder reports hosted by Microsoft.
+
 ### Medium Priority Systems
 - [Etime](/systems/etime.md)
 - [Real Property Database](/systems/real-property-database.md)

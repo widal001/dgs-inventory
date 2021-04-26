@@ -6,7 +6,8 @@
 A database managed by the Bureau of Procurement and used by the Fiscal Division to facilitate procurement requests and offer bidding opportunities to interested vendors. Some of this functionality will be replaced by WorkDay.
 
 ### Subject Matter Expert
-Ben Brosch
+* Ben Brosch (at DGS) 
+* Kyle Parry (in Procurement) 
 
 ### Divisions using system
 * Fleet Management

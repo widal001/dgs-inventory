@@ -3,23 +3,32 @@
 ## Overview
 
 ### Description
-A cloud-based workflow automation software used by the Business Process Improvement Office to promote paperless workflow processes within the agency and record these information about these workflows for future analysis.
+A cloud-based workflow automation software used by the Business Process Improvement Office to promote paperless workflow processes within the agency and record information about these workflows for future analysis.
 
 ### Subject Matter Experts
-Jason Jozwiak
+- **Vendor:** Integrify (for support log a ticket at https://support.integrify.com)
+- **DGS - Business:** Babila Lima
+- **DGS - Technical:** Jason Jozwiak
+- **BCIT:** Sri Perivilli
 
 ### Divisions using system
-- Facilities Maintenance
-- Admin (BPIO)
+- All Divisions and Business Units
+- Facilities
+- Fleet
+- CP&E
+- BPIO
+- HR
 
 ## Business Details
 
-### Relevant KPIs
-- {KPI 1 from list of KPIs}
+### Relevant KPIs or reporting requirements
+<This might be a question for the Business SME>
+- {KPI 1}
 - {KPI 2}
 
 ### Relevant Business Processes
-- {Business Process 1}
+<The goal of this is to provide examples of what operations this system supports>
+- {
 - {Business Process 2}
 
 ## Administration
@@ -33,10 +42,11 @@ Jason Jozwiak
 - **User Guide:** <link to user guide>
 - **ERD:** <link to ERD>
 - **Data Dictionary:** <Link to data dictionary>
+- **Steps to Access**
 
 ### Common Reports
-- <Report 1>
-- <Report 2>
+- <Jason will add these>
+- <Jason will add these>
 
 ## Budgetary Details
 

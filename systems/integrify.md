@@ -59,9 +59,9 @@ A cloud-based workflow automation software used by the Business Process Improvem
     - Full access for BPIO
 
 ### Documentation
-- **User Guide:** <link to user guide>
+- **User Guide:** https://help7.integrify.com/hc/en-us/categories/204653347-Admin-Guide
 - **ERD:** <link to ERD>
-- **Data Dictionary:** <Link to data dictionary>
+- **Vendor Data Dictionary:** https://bmore-my.sharepoint.com/:x:/g/personal/jason_jozwiak_baltimorecity_gov/EYhSlaxfOcpOlrggEXXed5ABHktpkoirNLt-LWJfhFimwQ?e=qggzrX
 - **Steps to Access**
 
 ### Common Reports

@@ -61,7 +61,7 @@ A cloud-based workflow automation software used by the Business Process Improvem
 ### Documentation
 - **User Guide:** https://help7.integrify.com/hc/en-us/categories/204653347-Admin-Guide
 - **ERD:** <link to ERD>
-- **Vendor Data Dictionary:** https://bmore-my.sharepoint.com/:x:/g/personal/jason_jozwiak_baltimorecity_gov/EYhSlaxfOcpOlrggEXXed5ABHktpkoirNLt-LWJfhFimwQ?e=qggzrX
+- **Vendor Data Dictionary:** https://bmore.sharepoint.com/:x:/s/DGS-BPIO/EYgAOFlhA1tNjw86h9kzT_ABx79vLeipPHmnljU-Q-aLQw?e=mwtg8a
 - **Steps to Access**
 
 ### Common Reports

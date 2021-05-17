@@ -9,6 +9,7 @@ A cloud-based workflow automation software used by the Business Process Improvem
 - **Vendor:** Integrify (for support log a ticket at https://support.integrify.com)
 - **DGS - Business:** Babila Lima
 - **DGS - Technical:** Jason Jozwiak
+- **ISMT** Olufunso Adewumi, Francine Kane
 - **BCIT:** Sri Perivilli
 
 ### Divisions using system
@@ -30,8 +31,19 @@ A cloud-based workflow automation software used by the Business Process Improvem
 ### Relevant Business Processes
 <The goal of this is to provide examples of what operations this system supports>
 
-- {Business Process}
-- {Business Process 2}
+#### Finance Workflows
+- **Office Supply Purchasing - ** 
+- HVAC Invoices
+- FMD Invoices
+- General Invoices
+- Energy Office Invoices
+- AP Invoice Processing
+- Change Order Process
+- P Card Process
+
+#### Human Resources Workflows
+- HR Routing Form
+- Position Description Approval
 
 ## Administration
 

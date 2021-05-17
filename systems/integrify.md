@@ -41,15 +41,15 @@ A cloud-based workflow automation software used by the Business Process Improvem
 | **Energy Office Invoices** | **Administration -> Processes -> Invoices Processes -> Energy -> Energy Invoice Submission and Approval** <br/> The invoice approval workflow for any Energy office invoices. Approved invoices trigger the AP Invoice Processing workflow. |
 | **General Invoices** | **Administration -> Processes -> Invoices Processes -> FMD -> General Invoice Submission and Approval** <br/> The invoice approval workflow for any invoices not in HVAC, FMD, or Energy. Approved invoices trigger the AP Invoice Processing workflow. |
 | **AP Invoice Processing** | **Administration -> Processes -> Invoices Processes -> AP -> AP Invoice Processing** <br/> The invoice processing workflow for Accounts Payable. All other invoice processes filter into this process and are its parent process. |
-| **Change Order Process** | **Administration -> Processes -> Finance Workflows -> Change Order Request** <br/> Process used to request change orders from Fiscal. |
+| **Change Order Process** | **Administration -> Processes -> Finance Workflows -> Change Order Request** <br/> (IN DEVELOPMENT) Process used to request change orders from Fiscal. |
 | **P-Card Process** | **Administration -> Processes -> Finance Workflows -> P Card** <br/> Process used to request payment for services using the agency's P-Card |
 
 #### Human Resources Workflows
 
 |Process|Description|
 |-------|-----------|
-| **HR Routing Form** ||
-| **Position Description Approval** ||
+| **HR Routing Form** | **Administration -> Processes -> Human Resources Workflows -> HR Routing Form Vx** <br/> Process used by hiring managers to request new hires, reclassify existing positions, hire temp employees, and hire interns. |
+| **Position Description Approval** | **Administration -> Processes -> Human Resources Workflows -> Position Description Approval** <br/> (IN DEVELOPMENT) process used by HR to get position descriptions approved by hiring managers and submitted to Central HR  |
 
 ## Administration
 

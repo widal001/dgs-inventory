@@ -65,8 +65,11 @@ A cloud-based workflow automation software used by the Business Process Improvem
 - **Steps to Access**
 
 ### Common Reports
-- <Jason will add these>
-- <Jason will add these>
+|Report|Description|
+|------|-----------|
+|**HR Requests Summary**| **Administration -> Reports -> Human Resource Workflows -> HR Requests Summary**|
+|**AP Invoice Time Durations**| **Administration -> Reports -> Invoice Processes -> Reports for AP -> AP Invoice Time Durations** |
+|**AP Open Tasks**| **Administration -> Reports -> Invoice Processes -> Reports for AP -> AP Open Tasks** |
 
 ## Budgetary Details
 

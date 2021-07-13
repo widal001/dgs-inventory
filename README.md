@@ -1,11 +1,12 @@
 # Overview
-Template inventory for DGS Systems and Reports
+Inventory for DGS Systems and Reports
 
 ## Divisions
+
 - [Facilities Maintenance](/divisions/facilities-maintenance.md)
-- [Fleet Management](/divisions/fleet-management.md)
+- [Fleet](/divisions/fleet.md)
 - [Historic Properties](/divisions/historic-properties.md)
-- [Major Capital Projects and Energy](/divisions/major-capital-projects.md)
+- [Capital Projects and Energy](/divisions/capital-projects-and-energy.md)
 - [Energy](/divisions/energy.md)
 - [Admin (HR)](/divisions/admin-hr.md)
 - [Admin (Fiscal)](/divisions/admin-fiscal.md)
@@ -17,44 +18,74 @@ Template inventory for DGS Systems and Reports
 ## Systems
 
 ### High Priority Systems
-- **[Archibus](/systems/archibus.md):** An internally hosted system managed by ISMT that both the Facilities Maintenance Division and Division of Major Capital Projects and Energy use for a variety of space-related functions, including corrective maintenance, preventive maintenance, and tracking energy consumption.
 
-- **[EJ Ward](/systems/ej-ward.md):** A cloud-based system that the Fleet Management Division uses to automate fuel distribution,  manage tank inventory levels and allow real-time management of inventory and analytics.
+- **[Archibus](/systems/high/archibus.md):** ERP software that both Facilities Maintenance and Capital Projects & Energy use for a variety of space-related functions, including corrective maintenance, preventive maintenance, and tracking energy consumption.
 
-- **[Faster](/systems/faster.md):** A cloud-based system that the Fleet Management Division uses to manage preventive and corrective maintenance on division assets, which provides fleet analytics, parts and inventory processing, maintenance and labor, and accounting and billing management based on real-time transactional data.
+- **[CitiBuy](/systems/high/citibuy.md):** Software managed by Bureau of Procurement that Fiscal uses to facilitate procurement requests and offer bidding opportunities to interested vendors.
 
-- **[WorkDay](/systems/workday.md):** A cloud-based financial management and human capital management software that will replace many of the systems currently used by the HR and Fiscal offices of the Administrative Division.
+- **[Codemap](/systems/high/codemap.md):** A public facing searchable database that Facilities Maintenance uses to determine which agencies are repsonsible for managing city properties.
 
-- **[HRIS](/systems/hris.md):** A resource that aids the admin branch of the agency in handling activities like accounting, management and payroll.
+- **[Core Integrator](/systems/high/core-integrator.md):** Accounting software managed by BAPS that Fiscal uses to track and manage the fulfillment of vendor invoices.
 
-- **[CitiBuy](/systems/citibuy.md):** A database managed by the Bureau of Procurement and used by the Fiscal Division to facilitate procurement requests and offer bidding opportunities to interested vendors. Some of this functionality will be replaced by WorkDay.
+- **[EJ Ward](/systems/high/ej-ward.md):** ERP software that Fleet uses to automate fuel distribution, manage tank inventory levels and allow real-time management of inventory and analytics.
 
-- **[Integrify](/systems/integrify.md):** A cloud-based workflow automation software used by the Business Process Improvement Office to promote paperless workflow processes within the agency and record these information about these workflows for future analysis.
+- **[Faster](/systems/high/faster.md):** ERP software that Fleet uses to manage preventive and corrective maintenance on division assets, which provides fleet analytics, parts and inventory processing, maintenance and labor, and accounting and billing management based on real-time transactional data.
 
-- **[Primavera Unifier](/systems/primavera-unifier.md):** A project lifecycle management solution that the Major Capital Projects Division uses for capital planning as well as project delivery and management.
+- **[Integrify](/systems/high/integrify.md):** Workflow Automation software that the Business Process Improvement Office uses to promote paperless workflow processes within the agency and record information about these workflows for future analysis.
 
-- **[VFA](/systems/vfa.md):** A cloud-based capital planning and management system that is used by the Fiscal and Facilities Maintenance Divisions to create budgets for facilities maintenance, renovation and capital projects.
+- **[Primavera Unifier](/systems/high/primavera-unifier.md):** Project Lifecycle Management software that that Capital Projects & Energy uses for capital planning as well as project delivery and management.
 
-- **[OnBase](/systems/onbase.md):**
+- **[SDAT](/systems/high/sdat.md):** TODO add description
 
-- **SSRS Report Builder** A standard report builder reports hosted by Microsoft.
+- **[VFA](/systems/high/vfa.md):** Capital planning and management system that Fiscal and Facilities Maintenance use to create budgets for facilities maintenance, renovation, and capital projects.
+
+- **[WorkDay](/systems/high/workday.md):** Human Capital Management software that the entire agency uses to manage schedules, timesheets, and payroll.
 
 ### Medium Priority Systems
-- [Etime](/systems/etime.md)
-- [Real Property Database](/systems/real-property-database.md)
-- [Core Integrator](/systems/core-integrator.md)
-- [Office Timesheets](/systems/office-timesheets.md)
-- [Neogov](/systems/neogov.md)
-- [GitHub](/systems/github.md)
-- [Data.World](/systems/data-world.md)
-- Microsoft BI
-- CM 14
-- Expenditure Authorization Request
-- Biometric Time Clock
-- Facilities Municipal Survey
-- CoStar
-- Midas
-- Microsoft Office Suite
+
+- **[Boards and Commissions Database](/systems/medium/boards-and-commissions-database.md):** TODO add description
+
+- **[City Dynamics](/systems/medium/city-dynamics.md):** Accounting software managed by BAPS that Fiscal and Capital Projects & Energy uses to look up financial information on vendors, projects, and contracts.
+
+- **[CM 14](/systems/medium/cm-14.md):** TODO add description
+
+- **[Data.World](/systems/medium/data-world.md):** TODO add description
+
+- **[EAR System](/systems/medium/ear-system.md):** DPW managed system that CP&E uses to track Expenditure Authorization Requests, to be incorporated into Unifier when funding and external agency participation is developed.
+
+- **[Etime](/systems/medium/etime.md):** TODO add description
+
+- **[GitHub](/systems/medium/github.md):** TODO add description
+
+- **[Midas](/systems/medium/midas.md):** TODO add description
+
+- **[Neogov](/systems/medium/neogov.md):** TODO add description
+
+- **[Office Timesheets](/systems/medium/office-timesheets.md):** TODO add description
+
+- **[QuerySmith](systems/medium/querysmith.md):** TODO add description
+
+- **[Real Properties Database](/systems/medium/real-properties-database.md):** TODO add description
+
+- **[SolarWinds](/systems/medium/solarwinds.md):** TODO add description
+
+- **[SSRS](/systems/medium/ssrs.md):** A standard report builder reports hosted by Microsoft.
+
+### Low Priority Systems
+
+- [Consultant Payment System](/systems/low/consultant-payment-system.md)
+
+- [MWBOO Consultant/Contractor Search](/systems/low/mwboo-search.md)
+
+- [Budgetary Planning and Forecasting System](/systems/low/bpfs.md)
+
+- [SurveyMonkey](/systems/low/surveymonkey.md)
+
+- [Biometric Time Clock](/systems/low/biometric-time-clock.md)
+
+- [Facilities Municipal Survey](/systems/low/costar.md)
+
+- [CoStar](/systems/low/costar.md)
 
 ## Reports
 - [Report 1](/reports/template.md)

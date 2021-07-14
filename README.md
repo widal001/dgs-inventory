@@ -23,7 +23,7 @@ Inventory for DGS Systems and Reports
 
 - **[CitiBuy](/systems/high/citibuy.md):** Software managed by Bureau of Procurement that Fiscal uses to facilitate procurement requests and offer bidding opportunities to interested vendors.
 
-- **[Codemap](/systems/high/codemap.md):** A public facing searchable database that Facilities Maintenance uses to determine which agencies are repsonsible for managing city properties.
+- **[Codemap](/systems/high/codemap.md):** A public facing searchable database that Facilities Maintenance uses to determine which agencies are repsonsible for managing city properties. <Planning>
 
 - **[Core Integrator](/systems/high/core-integrator.md):** Accounting software managed by BAPS that Fiscal uses to track and manage the fulfillment of vendor invoices.
 
@@ -35,7 +35,7 @@ Inventory for DGS Systems and Reports
 
 - **[Primavera Unifier](/systems/high/primavera-unifier.md):** Project Lifecycle Management software that that Capital Projects & Energy uses for capital planning as well as project delivery and management.
 
-- **[SDAT](/systems/high/sdat.md):** TODO add description
+- **[SDAT](/systems/high/sdat.md):** TODO add description <This is the assessment properties>
 
 - **[VFA](/systems/high/vfa.md):** Capital planning and management system that Fiscal and Facilities Maintenance use to create budgets for facilities maintenance, renovation, and capital projects.
 
@@ -47,7 +47,7 @@ Inventory for DGS Systems and Reports
 
 - **[City Dynamics](/systems/medium/city-dynamics.md):** Accounting software managed by BAPS that Fiscal and Capital Projects & Energy uses to look up financial information on vendors, projects, and contracts.
 
-- **[CM 14](/systems/medium/cm-14.md):** TODO add description
+- **[CM 14](/systems/medium/cm-14.md):** TODO add description <TODO Move this to deprecated>
 
 - **[Data.World](/systems/medium/data-world.md):** TODO add description
 
